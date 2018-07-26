@@ -6,7 +6,7 @@ msgstr ""
 "Content-Type : text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding : 8bit\n"
 
-#: src/components/OrgTierDisplay.js 21:25
+#: src/components/OrgTierDisplay.js 38:29
 msgid "Team name"
 msgstr ""
 

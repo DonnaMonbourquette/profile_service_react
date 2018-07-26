@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-07-13 12:26-0700\n"
-"PO-Revision-Date: 2018-07-13 12:26-0700\n"
+"POT-Creation-Date: 2018-07-26 12:44-0700\n"
+"PO-Revision-Date: 2018-07-26 12:44-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en_CA\n"
 "Language-Team: en_CA <LL@li.org>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-#: 21:25 src/components/OrgTierDisplay.js
+#: 38:29 src/components/OrgTierDisplay.js
 msgid "Team name"
 msgstr ""
 
